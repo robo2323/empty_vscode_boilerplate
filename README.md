@@ -1,0 +1,1 @@
+Empty boilerplate with .eslint setup (recommended-config with some custom rules) for vscode
